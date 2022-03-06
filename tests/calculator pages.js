@@ -19,7 +19,7 @@ describe('demo calculator tests', function(){
         
         browser.sleep(2000);
     });
-
+    // --For to simulate failed Test report 
     it('subtraction test', function(){
         //browser.get('https://juliemr.github.io/protractor-demo/');
         homepage.get('https://juliemr.github.io/protractor-demo/');
